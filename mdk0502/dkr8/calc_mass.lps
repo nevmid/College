@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="calc_mass.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="24"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_calcmass.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Calculator"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="61" Y="31"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1782"/>
+        <CursorPos X="23" Y="1798"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\fpimagebitmap.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="126"/>
+        <CursorPos Y="141"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="459"/>
+        <CursorPos X="14" Y="473"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="915"/>
+        <CursorPos X="15" Y="931"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="477"/>
+        <CursorPos Y="496"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="132"/>
+        <CursorPos Y="147"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\lazutils\winlazutf8.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\lazutils\lazfileutils.pas"/>
+        <UnitName Value="LazFileUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="535"/>
+        <CursorPos Y="561"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3969"/>
+        <CursorPos Y="3985"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\lab19\unit_calc.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="75"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="25">
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="54" Column="61" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="53" Column="61" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="52" Column="13" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="53" Column="13" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="52" Column="13" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="53" Column="13" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="52" Column="13" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="54" Column="13" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="69" Column="17" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="76" Column="31" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="82" Column="38" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="67" Column="12" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="83" Column="40" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="89" Column="19" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="72" Column="18" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="67" Column="69" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="75" Column="14" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="76" Column="15" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="78" Column="7" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="76" Column="15" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="73" Column="11" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="75" Column="25" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="77" Column="7" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="78" Column="18" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="76" Column="5" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_calcmass.pas"/>
+        <Caret Line="68" Column="6" TopLine="53"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
