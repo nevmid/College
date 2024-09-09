@@ -1,0 +1,140 @@
+object Form1: TForm1
+  Left = 306
+  Height = 620
+  Top = 191
+  Width = 591
+  Caption = 'Form1'
+  ClientHeight = 620
+  ClientWidth = 591
+  DesignTimePPI = 120
+  LCLVersion = '3.0.0.3'
+  object Label1: TLabel
+    Left = 16
+    Height = 28
+    Top = 32
+    Width = 171
+    Caption = 'Начало отрезка (a)'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -20
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 192
+    Height = 28
+    Top = 32
+    Width = 190
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 192
+    Height = 28
+    Top = 88
+    Width = 190
+    TabOrder = 1
+  end
+  object Label2: TLabel
+    Left = 16
+    Height = 28
+    Top = 88
+    Width = 171
+    AutoSize = False
+    Caption = 'Конец отрезка (b)'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -20
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 16
+    Height = 28
+    Top = 134
+    Width = 171
+    AutoSize = False
+    Caption = 'Шаг (h)'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -20
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+  end
+  object Edit3: TEdit
+    Left = 192
+    Height = 28
+    Top = 136
+    Width = 190
+    TabOrder = 2
+  end
+  object Label4: TLabel
+    Left = 40
+    Height = 28
+    Top = 256
+    Width = 13
+    Caption = 'x:'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -20
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 296
+    Height = 28
+    Top = 256
+    Width = 14
+    Caption = 'y:'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -20
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+  end
+  object Memo1: TMemo
+    Left = 56
+    Height = 329
+    Top = 263
+    Width = 224
+    TabOrder = 3
+    OnChange = Memo1Change
+  end
+  object Memo2: TMemo
+    Left = 312
+    Height = 329
+    Top = 263
+    Width = 224
+    TabOrder = 4
+    OnChange = Memo2Change
+  end
+  object Button1: TButton
+    Left = 192
+    Height = 31
+    Top = 184
+    Width = 190
+    Caption = 'Вычислить'
+    TabOrder = 5
+    OnClick = Button1Click
+  end
+  object Label6: TLabel
+    Left = 400
+    Height = 28
+    Top = 32
+    Width = 144
+    AutoSize = False
+  end
+  object Label7: TLabel
+    Left = 400
+    Height = 28
+    Top = 88
+    Width = 144
+    AutoSize = False
+  end
+  object Label8: TLabel
+    Left = 400
+    Height = 28
+    Top = 136
+    Width = 144
+    AutoSize = False
+  end
+end

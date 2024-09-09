@@ -1,0 +1,31 @@
+object Form1: TForm1
+  Left = 312
+  Height = 276
+  Top = 205
+  Width = 801
+  Caption = 'Form1'
+  ClientHeight = 276
+  ClientWidth = 801
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  LCLVersion = '3.0.0.3'
+  object StringGrid1: TStringGrid
+    Left = 10
+    Height = 185
+    Top = 10
+    Width = 780
+    DefaultRowHeight = 22
+    Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing, goSmoothScroll]
+    TabOrder = 0
+    OnGetEditMask = StringGrid1GetEditMask
+  end
+  object Button1: TButton
+    Left = 340
+    Height = 31
+    Top = 220
+    Width = 110
+    Caption = 'Добавить'
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+end

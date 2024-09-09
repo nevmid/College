@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="dz.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="10" Y="13"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit_dz.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="52"/>
+        <CursorPos X="6" Y="57"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="34"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="19">
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="68" Column="15" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="70" Column="3" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="75" Column="3" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="70" Column="3" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="75" Column="3" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="70" Column="3" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="55" Column="6" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="27" Column="45" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="56" Column="13" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="57" Column="13" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="58" Column="13" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="59" Column="13" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="60" Column="13" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="61" Column="13" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="60" Column="13" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="59" Column="13" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="70" Column="23" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="60" Column="34" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="59" Column="31" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unit_dz.pas"/>
+        <Caret Line="66" Column="13" TopLine="44"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
