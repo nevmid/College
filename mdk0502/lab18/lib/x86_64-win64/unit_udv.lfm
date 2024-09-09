@@ -1,0 +1,107 @@
+object Form1: TForm1
+  Left = 432
+  Height = 286
+  Top = 212
+  Width = 374
+  Caption = 'Form1'
+  ClientHeight = 286
+  ClientWidth = 374
+  OnCreate = FormCreate
+  LCLVersion = '3.0.0.3'
+  object lText: TLabel
+    Left = 16
+    Height = 25
+    Top = 24
+    Width = 168
+    AutoSize = False
+    Caption = 'Введите любое число:'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+  end
+  object eInput: TEdit
+    Left = 184
+    Height = 25
+    Top = 24
+    Width = 104
+    AutoSize = False
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 0
+  end
+  object B_ex1: TButton
+    Left = 96
+    Height = 25
+    Top = 64
+    Width = 192
+    Caption = 'Пример удвоения №1'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 1
+    OnClick = B_ex1Click
+  end
+  object B_ex2: TButton
+    Left = 96
+    Height = 25
+    Top = 96
+    Width = 192
+    Caption = 'Пример удвоения №2'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 2
+    OnClick = B_ex2Click
+  end
+  object B_ex3: TButton
+    Left = 96
+    Height = 25
+    Top = 128
+    Width = 192
+    Caption = 'Пример удвоения №3'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 3
+    OnClick = B_ex3Click
+  end
+  object B_ex4: TButton
+    Left = 96
+    Height = 25
+    Top = 160
+    Width = 192
+    Caption = 'Пример удвоения №4'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 4
+    OnClick = B_ex4Click
+  end
+  object B_ex5: TButton
+    Left = 96
+    Height = 25
+    Top = 192
+    Width = 192
+    Caption = 'Пример удвоения №5'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 5
+    OnClick = B_ex5Click
+  end
+end
