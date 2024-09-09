@@ -1,0 +1,111 @@
+object GothicCh: TGothicCh
+  Left = 297
+  Height = 302
+  Top = 182
+  Width = 570
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'Персонажи Готики'
+  ClientHeight = 302
+  ClientWidth = 570
+  OnClose = FormClose
+  OnCreate = FormCreate
+  LCLVersion = '2.0.12.0'
+  object SG: TStringGrid
+    Left = 6
+    Height = 245
+    Top = 26
+    Width = 557
+    FixedCols = 0
+    ParentFont = False
+    RowCount = 1
+    TabOrder = 0
+    OnDblClick = bEditClick
+  end
+  object bAdd: TSpeedButton
+    Left = 6
+    Height = 22
+    Top = 275
+    Width = 110
+    Caption = 'Добавить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -14
+    Font.Name = 'System'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = bAddClick
+    ParentFont = False
+  end
+  object bDel: TSpeedButton
+    Left = 454
+    Height = 22
+    Top = 275
+    Width = 110
+    Caption = 'Удалить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -14
+    Font.Name = 'System'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = bDelClick
+    ParentFont = False
+  end
+  object bEdit: TSpeedButton
+    Left = 230
+    Height = 22
+    Top = 275
+    Width = 110
+    Caption = 'Изменить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -14
+    Font.Name = 'System'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = bEditClick
+    ParentFont = False
+  end
+  object lSort: TLabel
+    Left = 6
+    Height = 16
+    Top = 5
+    Width = 97
+    AutoSize = False
+    Caption = 'Сортировать'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -14
+    Font.Name = 'System'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object CBsort: TComboBox
+    Left = 109
+    Height = 24
+    Top = 5
+    Width = 100
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -10
+    Font.Name = 'System'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ItemHeight = 16
+    ItemIndex = 0
+    Items.Strings = (
+      'Имя'
+      'Уровень'
+      'Учитель'
+      'Гильдия'
+      'Резиденция'
+    )
+    OnChange = CBsortChange
+    ParentFont = False
+    TabOrder = 1
+    Text = 'Имя'
+  end
+end
